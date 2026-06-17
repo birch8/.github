@@ -1,1 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birch8)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+<!-- 
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+-->
